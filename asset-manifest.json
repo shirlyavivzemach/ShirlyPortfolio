@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ShirlyPortfolio/static/css/main.38dcd0ac.chunk.css",
-    "main.js": "/ShirlyPortfolio/static/js/main.611d4023.chunk.js",
-    "main.js.map": "/ShirlyPortfolio/static/js/main.611d4023.chunk.js.map",
+    "main.js": "/ShirlyPortfolio/static/js/main.51a27ee4.chunk.js",
+    "main.js.map": "/ShirlyPortfolio/static/js/main.51a27ee4.chunk.js.map",
     "runtime-main.js": "/ShirlyPortfolio/static/js/runtime-main.273fa807.js",
     "runtime-main.js.map": "/ShirlyPortfolio/static/js/runtime-main.273fa807.js.map",
     "static/js/2.0eea0fd4.chunk.js": "/ShirlyPortfolio/static/js/2.0eea0fd4.chunk.js",
@@ -10,8 +10,8 @@
     "index.html": "/ShirlyPortfolio/index.html",
     "static/css/main.38dcd0ac.chunk.css.map": "/ShirlyPortfolio/static/css/main.38dcd0ac.chunk.css.map",
     "static/js/2.0eea0fd4.chunk.js.LICENSE.txt": "/ShirlyPortfolio/static/js/2.0eea0fd4.chunk.js.LICENSE.txt",
+    "static/media/CVShirlyAvivZemach.00672187.pdf": "/ShirlyPortfolio/static/media/CVShirlyAvivZemach.00672187.pdf",
     "static/media/global.scss": "/ShirlyPortfolio/static/media/Thasadith-Regular.07322928.ttf",
-    "static/media/ShirlyAvivZemachCV.2b745a71.pdf": "/ShirlyPortfolio/static/media/ShirlyAvivZemachCV.2b745a71.pdf",
     "static/media/appsus.8595a44f.gif": "/ShirlyPortfolio/static/media/appsus.8595a44f.gif",
     "static/media/makeeat.0d294033.gif": "/ShirlyPortfolio/static/media/makeeat.0d294033.gif",
     "static/media/meme.9a5f0ecb.gif": "/ShirlyPortfolio/static/media/meme.9a5f0ecb.gif",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.273fa807.js",
     "static/js/2.0eea0fd4.chunk.js",
     "static/css/main.38dcd0ac.chunk.css",
-    "static/js/main.611d4023.chunk.js"
+    "static/js/main.51a27ee4.chunk.js"
   ]
 }
